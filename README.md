@@ -12,3 +12,7 @@ The links and tools that are useful for research and coding
 * [Wolfram|Alpha Examples: Mathematics](https://www.wolframalpha.com/examples/mathematics/)
 * [Derivative Calculator • With Steps!](https://www.derivative-calculator.net/)
 * [Matrix Calculus](http://www.matrixcalculus.org/)
+
+## Github
+
+* [Shields.io: Quality metadata badges for open source projects](https://shields.io/)
